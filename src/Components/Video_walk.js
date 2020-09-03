@@ -1,5 +1,5 @@
 import React from 'react'
-import firebase from './firebase';
+import firebase from '../Config/firebase';
 import ArrowForwardIcon from '@material-ui/icons/ArrowForward';
 import {Button, TextField,FormLabel} from '@material-ui/core';
 import Card from '@material-ui/core/Card';

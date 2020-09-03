@@ -1,5 +1,5 @@
 import React from "react";
-import './Img_upload.css';
+import '../assets/css/Img_upload.css';
 import $ from 'jquery';
 import {Button} from '@material-ui/core';
 class Img_upload extends React.Component {

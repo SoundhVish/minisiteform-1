@@ -1,6 +1,6 @@
 import React from 'react';
-import firebase from './firebase';
-import './Basic.css';
+import firebase from '../Config/firebase';
+import '../assets/css/Basic.css';
 import FormControl from '@material-ui/core/FormControl';
 import { makeStyles, useTheme,withStyles } from '@material-ui/core/styles';
 import { FormLabel,TextField,TextareaAutosize,Button,Select } from '@material-ui/core';

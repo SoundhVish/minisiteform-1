@@ -4,7 +4,7 @@ import {Button, Input,FormControl,FormLabel} from '@material-ui/core';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import PublishIcon from '@material-ui/icons/Publish';
-import './Brochure.css';
+import '../assets/css/Brochure.css';
 function Brochure() {
     return (
         <div>

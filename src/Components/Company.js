@@ -1,6 +1,6 @@
 import React from 'react'
-import firebase from './firebase';
-import './Company.css';
+import firebase from '../Config/firebase';
+import '../assets/css/Company.css';
 import FormControl from '@material-ui/core/FormControl';
 import Input from '@material-ui/core/Input';
 import { makeStyles, useTheme,withStyles } from '@material-ui/core/styles';

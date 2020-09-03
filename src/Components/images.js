@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import firebase from './firebase';
+import firebase from '../Config/firebase';
 import 'bootstrap/dist/css/bootstrap.css'
-import './images.css';
+import '../assets/css/images.css';
 import ArrowForwardIcon from '@material-ui/icons/ArrowForward';
 import CloudUploadIcon from '@material-ui/icons/CloudUpload';
 import Card from '@material-ui/core/Card';

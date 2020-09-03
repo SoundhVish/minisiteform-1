@@ -3,7 +3,7 @@ import ArrowForwardIcon from '@material-ui/icons/ArrowForward';
 import {Button,FormLabel} from '@material-ui/core';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
-import './Amenities.css';
+import '../assets/css/Amenities.css';
 function Amenities() {
     return (
         <div>

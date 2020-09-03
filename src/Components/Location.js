@@ -1,5 +1,5 @@
 import React from 'react'
-import firebase from './firebase';
+import firebase from '../Config/firebase';
 import ArrowForwardIcon from '@material-ui/icons/ArrowForward';
 import {Button,FormLabel,TextField, Input, Container} from '@material-ui/core';
 import { withStyles } from '@material-ui/core/styles';

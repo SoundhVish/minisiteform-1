@@ -38,7 +38,7 @@ import Typography from '@material-ui/core/Typography';
 import { makeStyles, useTheme } from '@material-ui/core/styles';
 import MovieOutlinedIcon from '@material-ui/icons/MovieOutlined';
 import {useParams, useLocation } from 'react-router-dom'
-import './Sidebar.css';
+import '../assets/css/Sidebar.css';
 const drawerWidth = 240;
 
 const useStyles = makeStyles((theme) => ({
